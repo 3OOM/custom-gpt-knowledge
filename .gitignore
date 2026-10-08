@@ -1,0 +1,5 @@
+# Keep only necessary markdown documentation on GitHub
+*.pdf
+generate_pdfs.py
+*.html
+__pycache__/
